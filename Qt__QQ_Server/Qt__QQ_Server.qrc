@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/Qt__QQ_Server">
+        <file>qiniu.png</file>
+    </qresource>
+</RCC>
